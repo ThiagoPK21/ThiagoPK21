@@ -3,3 +3,6 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThiagoPK21&theme=dark" alt="GitHub Streak"/>
 
+<img width="468" height="40" alt="image" src="https://github.com/user-attachments/assets/561f2fc9-2ea5-443d-ab25-80304d41c1c8" />
+
+
