@@ -3,4 +3,4 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThiagoPK21&theme=dark" alt="GitHub Streak"/>
 
-<img scr="https://raw.githubusercontent.com/ThiagoPK21/ThiagoPK21/main/content/pacman.gif" alt="pacman"/>
+<img src="https://raw.githubusercontent.com/ThiagoPK21/ThiagoPK21/main/content/pacman.gif" alt="pacman"/>
