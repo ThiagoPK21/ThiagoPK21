@@ -1,1 +1,2 @@
-![Stats](https://github-readme-stats.vercel.app/api?username=ThiagoPK21)
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ThiagoPK21&theme=dark" alt="GitHub Streak"/>
